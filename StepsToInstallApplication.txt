@@ -1,0 +1,8 @@
+1) mkdir rihav1.0.0 
+2)cd rihaV1.0.0 
+3)node -v  ( Install Node if its not installed , or check the version of node - it should be greater that 6.11.3)
+4)ng -v (Install angular-cli if its not installed , or check the verison of angular-cli , it should be 1.7.3)
+5)ng new riha (create a new project and let angular-cli install all the packages )
+6)cd riha
+7)npm start ( start the application and check the port rihav1.0.0 http://localhost:4200/
+
